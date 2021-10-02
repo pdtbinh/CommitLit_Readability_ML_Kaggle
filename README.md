@@ -1,6 +1,6 @@
 # CommitLit Readability Prize ML on Kaggle
 
-This project includes the data, codes, and submissions for the CommonLit Readability Prize ML compettion 2021 on Kaggle. 
+This project includes the data, codes, and submissions for the CommonLit Readability Prize ML compettion on Kaggle. 
 
 <b>Model solution</b>: Variants of RoBERTa (Robust Optimized BERT Pretraining Approach): 
 * XMLRoBERTa
