@@ -8,5 +8,5 @@ This project includes the data, codes, and submissions for the CommonLit Readabi
 * RoBERTa-Large (best model)
 * Combinations of those
 
-<b>Result</b>: Best model has testing root mean squared error of 0.506 (0.060 more than first place's result, which is 0.446). Measurement unit is the final readabilty score.
+<b>Result</b>: Best model has testing root mean squared error of 0.506. Measurement unit is the final readabilty score.
 
